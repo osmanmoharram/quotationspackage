@@ -1,0 +1,13 @@
+{
+    "name": "DOQuot",
+    "alias": "doquot",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "DOCore\\DOQuot\\Providers\\DOQuotServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

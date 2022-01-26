@@ -1,0 +1,26 @@
+{
+    "name": "dosystem/doquot",
+    "description": "",
+    "authors": [
+        {
+            "name": "Digital Order",
+            "email": "web@digitalorder.net"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "DOCore\\DOQuot\\": ""
+        }
+    },
+    "require": {
+        "barryvdh/laravel-dompdf": "^0.8.7"
+    }
+}

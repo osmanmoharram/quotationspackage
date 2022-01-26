@@ -1,0 +1,8 @@
+/vendor
+/.idea
+/.vscode
+package-lock.json
+/packages/doquot/Database/migrations/2020_09_24_200038_create_clients_table.php
+/packages/doquot/Database/migrations/2020_09_24_200038_create_employs_table.php
+/packages/doquot/Models/Client.php
+/packages/doquot/Models/Employee.php
